@@ -2,6 +2,13 @@
 
 ## My professional portfolio.
 
+[Click here to go to the live link](https://mrenaut.github.io/new-portfolio)
+
+SCREENSHOT
+
+![](img/screenshot1.JPG)
+
+
 
 <!--
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
